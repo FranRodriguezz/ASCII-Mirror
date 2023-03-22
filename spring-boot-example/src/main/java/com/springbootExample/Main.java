@@ -17,10 +17,10 @@ public class Main {
 
     @GetMapping("/greet")
     public GreetResponse greet(){
-        return new GreetResponse("Hello", List.of("Java", "C++", "C"), new Person("Fran"));
+        return new GreetResponse("Hello", List.of("Java", "C++", "C"), new Person("Fran", 24, 300));
     }
 
-    record Person (String name){
+    record Person (String name, int age, double savings){
 
     }
 
