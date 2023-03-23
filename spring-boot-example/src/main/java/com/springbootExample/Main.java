@@ -15,6 +15,13 @@ public class Main {
         SpringApplication.run(Main.class, args);
     }
 
+
+
+
+
+
+    /*
+    Ejemplo inicial
     @GetMapping("/greet")
     public GreetResponse greet(){
         return new GreetResponse("Hello", List.of("Java", "C++", "C"), new Person("Fran", 24, 300));
@@ -25,6 +32,6 @@ public class Main {
     }
 
     record GreetResponse(String greet, List<String> favProgrammingLanguages, Person person){
-    }
+    }*/
 
 }
