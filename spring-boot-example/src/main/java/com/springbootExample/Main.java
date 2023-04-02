@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.swing.*;
 import java.util.List;
-
+// docker exec -it postgres-wfgw bash
 @SpringBootApplication
 @RestController
 public class Main {
