@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MirrorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-13T14:00:10" hostname="DESKTOP-1VDS7F8" time="0.407">
+<testsuite name="MirrorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-13T14:01:13" hostname="DESKTOP-1VDS7F8" time="0.24">
   <properties/>
-  <testcase name="start" classname="MirrorTest" time="0.407"/>
+  <testcase name="start" classname="MirrorTest" time="0.24"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Input the file path:
